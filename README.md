@@ -1,4 +1,5 @@
 # GEOG-676-Spr26
+GEOG 676 - GIS PROGRAMMING
 
 |Labs    |
 |:-------|
